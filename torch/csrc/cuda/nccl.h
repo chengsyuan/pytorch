@@ -42,17 +42,17 @@ enum class ncclRedOp {
     NumOps     = 4 };
 
 /* Data types */
-enum class ncclDataType {
-    Int8       = 0, Char       = 0,
-    Uint8      = 1,
-    Int32      = 2, Int        = 2,
-    Uint32     = 3,
-    Int64      = 4,
-    Uint64     = 5,
-    Float16    = 6, Half       = 6,
-    Float32    = 7, Float      = 7,
-    Float64    = 8, Double     = 8,
-    numTypes   = 9 };
+// enum class ncclDataType {
+//     Int8       = 0, Char       = 0,
+//     Uint8      = 1,
+//     Int32      = 2, Int        = 2,
+//     Uint32     = 3,
+//     Int64      = 4,
+//     Uint64     = 5,
+//     Float16    = 6, Half       = 6,
+//     Float32    = 7, Float      = 7,
+//     Float64    = 8, Double     = 8,
+//     numTypes   = 9 };
 
 
 
